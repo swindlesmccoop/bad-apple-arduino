@@ -29,5 +29,5 @@ Get it here: https://www.arduino.cc/en/software
 ## Picture
 ![alt text](https://github.com/swindlesmccoop/bad-apple-arduino/blob/main/wiring.png?raw=true)
 
-## Videa
+## Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/snO1g7Kysnc/0.jpg)](https://www.youtube.com/watch?v=snO1g7Kysnc "Bad Apple!! audio from scratch on Arduino Mega with Piezo Buzzers")
