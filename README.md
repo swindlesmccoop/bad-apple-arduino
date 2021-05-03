@@ -14,12 +14,17 @@ Get it here: https://www.arduino.cc/en/software
 * A bunch of wires
 * Button
 
-# Setup
+# Setup/Instructions
 
 ## From https://github.com/P0keDev/Midi2Arduino
-  Download and unzip the GitHub repository somewhere on your computer.
   Install the ToneLib library (libraries/ToneLib) as you would any 3rd party library.
   Navigate to C:\Program Files (x86)\Arduino\hardware\arduino\avr\cores\arduino and remove Tone.cpp (this is important!) I suggest backing up Tone.cpp to another  location if you ever want it again. If you delete it completely, you'll have to reinstall the Arduino IDE to get it back.
+
+## From me
+1. Download this repo
+2. Open up the `badapple` folder
+3. Open up `badapple.ino`
+4. Push it to your board
 
 ## Picture
 ![alt text](https://github.com/swindlesmccoop/bad-apple-arduino/blob/main/wiring.png?raw=true)
