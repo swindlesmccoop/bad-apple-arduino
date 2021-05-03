@@ -9,9 +9,8 @@ Standard size breadboard
 6 Piezo Buzzers
 
 # Setup
-## From https://github.com/P0keDev/Midi2Arduino
 
-### Setting up Midi2Arduino:
+## From https://github.com/P0keDev/Midi2Arduino
   Download and unzip the GitHub repository somewhere on your computer.
   Install the ToneLib library (libraries/ToneLib) as you would any 3rd party library.
   Navigate to C:\Program Files (x86)\Arduino\hardware\arduino\avr\cores\arduino and remove Tone.cpp (this is important!) I suggest backing up Tone.cpp to another  location if you ever want it again. If you delete it completely, you'll have to reinstall the Arduino IDE to get it back.
