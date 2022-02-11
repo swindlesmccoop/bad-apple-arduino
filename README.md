@@ -1,3 +1,5 @@
+# Development moved to [CBPS Git](https://git.cbps.xyz/swindlesmccoop)
+
 # Info
 This is highly adapted from https://github.com/P0keDev/Midi2Arduino, I just did all of the random hard work because the instructions were hard to understand. If I'm not too lazy, I'll fork it in the future and fix it up to be noob friendly.
 
