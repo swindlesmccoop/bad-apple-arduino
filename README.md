@@ -7,7 +7,7 @@ Get it here: https://www.arduino.cc/en/software
 ***DO NOT GET THE WINDOWS STORE APP!***
 
 # Parts List
-* Arduino Mega or off-brand equivalent
+* Arduino Mega or generic equivalent
 * Standard size breadboard
 * 1 Resistor of any ohm
 * 6 Piezo Buzzers
@@ -17,7 +17,7 @@ Get it here: https://www.arduino.cc/en/software
 # Setup/Instructions
 
 ## Wiring
-![alt text](https://git.cbps.xyz/swindlesmccoop/bad-apple-arduino/raw/branch/master/wiring.png)
+![alt text](https://raw.githubusercontent.com/swindlesmccoop/bad-apple-arduino/refs/heads/master/wiring.png)
 
 ## From https://github.com/P0keDev/Midi2Arduino
   Install the ToneLib library (libraries/ToneLib) as you would any 3rd party library.
